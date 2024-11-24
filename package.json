@@ -1,6 +1,6 @@
 {
   "name": "capacitor-auto-start",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "This is capacitor plugin for app autostart after boot up, package update inspired from originally cordova plugin https://github.com/ToniKorin/cordova-plugin-autostart",
   "main": "dist/plugin.cjs.js",
   "module": "dist/esm/index.js",
