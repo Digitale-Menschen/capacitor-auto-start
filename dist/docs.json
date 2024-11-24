@@ -1,0 +1,41 @@
+{
+  "api": {
+    "name": "CapacitorAutoStartPlugin",
+    "slug": "capacitorautostartplugin",
+    "docs": "",
+    "tags": [],
+    "methods": [
+      {
+        "name": "enable",
+        "signature": "({ enable, enableService, }: { enable: boolean; enableService: boolean; }) => Promise<void>",
+        "parameters": [
+          {
+            "name": "__0",
+            "docs": "",
+            "type": "{ enable: boolean; enableService: boolean; }"
+          }
+        ],
+        "returns": "Promise<void>",
+        "tags": [],
+        "docs": "",
+        "complexTypes": [],
+        "slug": "enable"
+      },
+      {
+        "name": "isEnabled",
+        "signature": "() => Promise<{ bootReceiver: boolean; packageReplacer: boolean; userPresent: boolean; }>",
+        "parameters": [],
+        "returns": "Promise<{ bootReceiver: boolean; packageReplacer: boolean; userPresent: boolean; }>",
+        "tags": [],
+        "docs": "",
+        "complexTypes": [],
+        "slug": "isenabled"
+      }
+    ],
+    "properties": []
+  },
+  "interfaces": [],
+  "enums": [],
+  "typeAliases": [],
+  "pluginConfigs": []
+}
