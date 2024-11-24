@@ -3,6 +3,8 @@
 This is capacitor plugin for app autostart after boot up, package update inspired from originally cordova plugin https://github.com/ToniKorin/cordova-plugin-autostart
 It initializes the app after boot up, package update and user present.
 
+ONLY ANDROID SUPPORT FOR NOW
+
 ## Install
 
 ```bash
